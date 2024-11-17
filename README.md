@@ -1,11 +1,15 @@
-### Art History and Digital Humanities
-Diving into the digital era with a flair for the past, I blend Art History with the cutting-edge field of Digital Humanities. My academic and research pursuits are nestled at the intersection of technology, art, and societal evolution.
+### Art History and Digital Humanities  
+Bridging the past and future, my work integrates Art History with the innovative methodologies of Digital Humanities. My research explores how technology transforms our understanding of art, culture, and society.  
 
-🌟 **Curently working on :** 
-- checkout https://femmeslyon.hypotheses.org/femmes-de-lyon
-- Data, Weaving, and Code for a New Materiality Approach to the Digital
-#### 🦋 Cyberfeminism 
-I am deeply invested in exploring Cyberfeminism, focusing on how digital spaces can be leveraged to promote feminist ideals.
-#### 🦋 Data Analysis for Social Science
-With a keen interest in Data Analysis for Social Science, I aim to harness data to understand and address social phenomena.
+#### **Current Projects**  
+- [**Women of Lyon**](https://femmeslyon.hypotheses.org/femmes-de-lyon): A digital project shedding light on women's contributions to Lyon's cultural and historical landscape.  
+- **Data, Weaving, and Code**: Investigating the interplay between materiality and digitality through textiles and computational analysis.  
 
+#### **Research Interests**  
+- **Cyberfeminism**: Examining how digital tools and spaces can amplify feminist narratives and foster inclusivity.  
+- **Data Analysis in Social Sciences**: Leveraging data to uncover patterns, inform policies, and better understand societal dynamics.
+- **Interlinked Data**: Enhancing interconnected knowledge through SKOS (Simple Knowledge Organization System) and thesauri for better cultural and historical resource integration.
+
+I am passionate about exploring interdisciplinary approaches, combining humanities with computational techniques to unlock new perspectives on historical and cultural phenomena.
+
+=> OMEKA and Iconclass: Currently investigating these tools to enhance metadata structuring, resource organization, and iconographic analysis in digital projects.
